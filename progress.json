@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:52:07.577Z",
+  "generated_at": "2026-10-26T21:52:09.354Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -22,6 +22,102 @@
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-22T18:15:14.288Z",
       "last_pushed_at": "2026-10-22T18:15:14.288Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-10-24T01:29:46.477Z",
+      "last_pushed_at": "2026-10-24T01:29:46.477Z"
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-24T02:42:30.150Z",
+      "last_pushed_at": "2026-10-24T02:42:30.150Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-24T03:20:45.500Z",
+      "last_pushed_at": "2026-10-24T03:20:45.500Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-24T04:09:18.886Z",
+      "last_pushed_at": "2026-10-24T04:09:18.886Z",
+      "language": "python",
+      "lines": 12
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-10-24T05:17:52.528Z",
+      "last_pushed_at": "2026-10-24T05:17:52.528Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-10-24T06:39:07.657Z",
+      "last_pushed_at": "2026-10-24T06:39:07.657Z",
+      "language": "python",
+      "lines": 14
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-10-24T06:45:33.156Z",
+      "last_pushed_at": "2026-10-24T06:45:33.156Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-10-24T08:05:07.114Z",
+      "last_pushed_at": "2026-10-24T08:05:07.114Z"
     }
   }
 }
