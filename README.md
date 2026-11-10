@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 35 problems · 0 labs · 21 math
+**57** solved · 36 problems · 0 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-30 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-26 | [solution](problems/0334-cholesky-decomposition) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-09 | [solution](problems/0847-dummy-classifier-baseline) |
+| [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-10 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-26 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-30 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
